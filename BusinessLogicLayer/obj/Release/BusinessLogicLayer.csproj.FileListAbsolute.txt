@@ -1,0 +1,15 @@
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\EntityLayer.dll
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\EntityFramework.dll
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\EntityLayer.pdb
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\bin\Release\EntityFramework.xml
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+C:\Users\Mehmetali Demirtaş\source\repos\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
